@@ -49,42 +49,19 @@ age_group = st.selectbox(
 # ---------------- BUTTON ---------------- #
 
 if st.button("Generate Outfit ✨"):
-    payload = {
-        "weather": weather,
-        "style": style,
-        "gender": gender,
-        "age_group": age_group
-    }
-
     try:
-       from recommender import recommend_outfit
+        from recommender import recommend_outfit
 
-result = recommend_outfit(weather, style, gender, age_group)
-        
+        result = recommend_outfit(weather, style, gender, age_group)
 
-
-            if "message" in result:
-                st.warning(result["message"])
-            else:
-                st.success("Recommended Outfit 👌")
-
-                st.markdown(f"**Top:** {result['top']}")
-                st.markdown(f"**Bottom:** {result['bottom']}")
-                st.markdown(f"**Footwear:** {result['footwear']}")
-                st.markdown(f"**Style:** {result['style'].title()}")
-                st.markdown(f"**Age Group:** {result['age_group']}")
-
-                if result["image_path"]:
-                    st.image(
-                        result["image_path"],
-                        caption="Suggested Look 👀",
-                        width=350
-                    )
-                else:
-                    st.info("Image not found 📷")
+        if "message" in result:
+            st.warning(result["message"])
+        else:
+            st.subheader("Recommended Outfit 👗")
+            st.write("Top:", result["top"])
+            st.write("Bottom:", result["bottom"])
+            st.write("Footwear:", result["footwear"])
+            st.image(result["image_path"], use_column_width=True)
 
     except Exception as e:
-        st.error("Backend server is not running ❌")
-
-
-
+        st.error(f"Error: {e}")
