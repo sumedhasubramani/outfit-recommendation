@@ -57,9 +57,9 @@ if st.button("Generate Outfit ✨"):
     }
 
     try:
-        response = requests.post(
-            "http://127.0.0.1:5000/recommend",
-            json=payload
+       from recommender import recommend_outfit
+
+result = recommend_outfit(weather, style, gender, age_group)
         )
 
         if response.status_code != 200:
@@ -89,3 +89,4 @@ if st.button("Generate Outfit ✨"):
 
     except Exception as e:
         st.error("Backend server is not running ❌")
+
