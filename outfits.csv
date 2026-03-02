@@ -1,0 +1,162 @@
+outfit_id,top,bottom,footwear,weather,gender,style,image_path,age_group
+1,T-shirt,Jeans,Sneakers,sunny,male,casual,images/casual_male_sunny.jpg,20-35
+2,Top,Jeans,Sneakers,sunny,female,casual,images/casual_female_sunny.jpg,20-35
+3,Cotton T-shirt,Joggers,Sneakers,humid,male,casual,images/casual_male_humid.jpg,20-35
+4,Cotton Top,Joggers,Sneakers,humid,female,casual,images/casual_female_humid.jpg,20-35
+5,Hoodie,Jeans,Sneakers,winter,male,casual,images/casual_male_winter.jpg,20-35
+6,Hoodie,Jeans,Sneakers,winter,female,casual,images/casual_female_winter.jpg,20-35
+7,Shirt,Chinos,Loafers,moderate,male,casual,images/casual_male_moderate.jpg,20-35
+8,Shirt,Chinos,Loafers,moderate,female,casual,images/casual_female_moderate.jpg,20-35
+9,Rain Jacket,Jeans,Waterproof Shoes,rainy,male,casual,images/casual_male_rainy.jpg,20-35
+10,Rain Jacket,Jeans,Waterproof Shoes,rainy,female,casual,images/casual_female_rainy.jpg,20-35
+11,Track T-shirt,Track Pants,Running Shoes,sunny,male,sporty,images/sporty_male_sunny.jpg,20-35
+12,Sports Top,Track Pants,Running Shoes,sunny,female,sporty,images/sporty_female_sunny.jpg,20-35
+13,Breathable Sports T-shirt,Joggers,Sneakers,humid,male,sporty,images/sporty_male_humid.jpg,20-35
+14,Breathable Sports Top,Joggers,Sneakers,humid,female,sporty,images/sporty_female_humid.jpg,20-35
+15,Hooded Sweatshirt,Joggers,Sneakers,winter,male,sporty,images/sporty_male_winter.jpg,20-35
+16,Hooded Sweatshirt,Joggers,Sneakers,winter,female,sporty,images/sporty_female_winter.jpg,20-35
+17,Athletic T-shirt,Joggers,Training Shoes,moderate,male,sporty,images/sporty_male_moderate.jpg,20-35
+18,Athletic Top,Joggers,Training Shoes,moderate,female,sporty,images/sporty_female_moderate.jpg,20-35
+19,Windcheater,Track Pants,Running Shoes,rainy,male,sporty,images/sporty_male_rainy.jpg,20-35
+20,Windcheater,Track Pants,Running Shoes,rainy,female,sporty,images/sporty_female_rainy.jpg,20-35
+21,Formal Shirt,Dark Jeans,Formal Shoes,sunny,male,college formal,images/college_formal_male_sunny.jpg,20-35
+22,Formal Top,Dark Jeans,Formal Shoes,sunny,female,college formal,images/college_formal_female_sunny.jpg,20-35
+23,Light Shirt,Formal Trousers,Loafers,humid,male,college formal,images/college_formal_male_humid.jpg,20-35
+24,Light Blouse,Formal Trousers,Flats,humid,female,college formal,images/college_formal_female_humid.jpg,20-35
+25,Sweater over Shirt,Formal Trousers,Formal Shoes,winter,male,college formal,images/college_formal_male_winter.jpg,20-35
+26,Sweater over Shirt,Formal Trousers,Formal Shoes,winter,female,college formal,images/college_formal_female_winter.jpg,20-35
+27,Shirt,Chinos,Formal Shoes,moderate,male,college formal,images/college_formal_male_moderate.jpg,20-35
+28,Shirt,Chinos,Formal Shoes,moderate,female,college formal,images/college_formal_female_moderate.jpg,20-35
+29,Blazer,Dark Jeans,Formal Shoes,rainy,male,college formal,images/college_formal_male_rainy.jpg,20-35
+30,Blazer,Dark Jeans,Formal Shoes,rainy,female,college formal,images/college_formal_female_rainy.jpg,20-35
+31,Shirt,Chinos,Loafers,sunny,male,office semi formal,images/office_semi_formal_male_sunny.jpg,20-35
+32,Blouse,Chinos,Flats,sunny,female,office semi formal,images/office_semi_formal_female_sunny.jpg,20-35
+33,Light Cotton Shirt,Formal Trousers,Loafers,humid,male,office semi formal,images/office_semi_formal_male_humid.jpg,20-35
+34,Light Blouse,Formal Trousers,Flats,humid,female,office semi formal,images/office_semi_formal_female_humid.jpg,20-35
+35,Sweater over Shirt,Dark Trousers,Formal Shoes,winter,male,office semi formal,images/office_semi_formal_male_winter.jpg,20-35
+36,Cardigan over Top,Dark Trousers,Flats,winter,female,office semi formal,images/office_semi_formal_female_winter.jpg,20-35
+37,Shirt,Formal Trousers,Formal Shoes,moderate,male,office semi formal,images/office_semi_formal_male_moderate.jpg,20-35
+38,Blouse,Formal Trousers,Flats,moderate,female,office semi formal,images/office_semi_formal_female_moderate.jpg,20-35
+39,Light Blazer,Dark Jeans,Formal Shoes,rainy,male,office semi formal,images/office_semi_formal_male_rainy.jpg,20-35
+40,Light Blazer,Dark Jeans,Flats,rainy,female,office semi formal,images/office_semi_formal_female_rainy.jpg,20-35
+41,Formal Shirt,Formal Trousers,Formal Shoes,sunny,male,office formal,images/office_formal_male_sunny.jpg,20-35
+42,Formal Blouse,Pencil Skirt,Heels,sunny,female,office formal,images/office_formal_female_sunny.jpg,20-35
+43,Light Cotton Formal Shirt,Formal Trousers,Formal Shoes,humid,male,office formal,images/office_formal_male_humid.jpg,20-35
+44,Light Formal Blouse,Formal Trousers,Heels,humid,female,office formal,images/office_formal_female_humid.jpg,20-35
+45,Wool Blazer,Formal Trousers,Formal Shoes,winter,male,office formal,images/office_formal_male_winter.jpg,20-35
+46,Blazer over Formal Top,Formal Skirt,Heels,winter,female,office formal,images/office_formal_female_winter.jpg,20-35
+47,Blazer,Formal Trousers,Formal Shoes,moderate,male,office formal,images/office_formal_male_moderate.jpg,20-35
+48,Formal Top,Formal Trousers,Heels,moderate,female,office formal,images/office_formal_female_moderate.jpg,20-35
+49,Waterproof Blazer,Formal Trousers,Formal Shoes,rainy,male,office formal,images/office_formal_male_rainy.jpg,20-35
+50,Waterproof Blazer,Formal Skirt,Heels,rainy,female,office formal,images/office_formal_female_rainy.jpg,20-35
+51,Silk Shirt,Black Trousers,Leather Shoes,sunny,male,classy,images/classy_male_sunny.jpg,20-35
+52,Silk Top,Long Skirt,Heels,sunny,female,classy,images/classy_female_sunny.jpg,20-35
+53,Light Satin Shirt,Formal Trousers,Loafers,humid,male,classy,images/classy_male_humid.jpg,20-35
+54,Satin Top,Wide Leg Pants,Heels,humid,female,classy,images/classy_female_humid.jpg,20-35
+55,Wool Blazer,Dark Trousers,Boots,winter,male,classy,images/classy_male_winter.jpg,20-35
+56,Long Coat over Dress,Tights,Boots,winter,female,classy,images/classy_female_winter.jpg,20-35
+57,Blazer,Dark Jeans,Formal Shoes,moderate,male,classy,images/classy_male_moderate.jpg,20-35
+58,Blazer over Top,Dark Jeans,Heels,moderate,female,classy,images/classy_female_moderate.jpg,20-35
+59,Structured Jacket,Black Jeans,Leather Shoes,rainy,male,classy,images/classy_male_rainy.jpg,20-35
+60,Structured Jacket,Black Jeans,Ankle Boots,rainy,female,classy,images/classy_female_rainy.jpg,20-35
+61,Plain T-shirt,Slim Jeans,White Sneakers,sunny,male,minimal,images/minimal_male_sunny.jpg,20-35
+62,Plain Top,Slim Jeans,White Sneakers,sunny,female,minimal,images/minimal_female_sunny.jpg,20-35
+63,Light Cotton T-shirt,Cotton Pants,Sneakers,humid,male,minimal,images/minimal_male_humid.jpg,20-35
+64,Light Cotton Top,Cotton Pants,Sneakers,humid,female,minimal,images/minimal_female_humid.jpg,20-35
+65,Neutral Sweatshirt,Dark Jeans,Sneakers,winter,male,minimal,images/minimal_male_winter.jpg,20-35
+66,Neutral Sweater,Dark Jeans,Ankle Boots,winter,female,minimal,images/minimal_female_winter.jpg,20-35
+67,Monochrome Shirt,Chinos,Loafers,moderate,male,minimal,images/minimal_male_moderate.jpg,20-35
+68,Monochrome Top,Chinos,Flats,moderate,female,minimal,images/minimal_female_moderate.jpg,20-35
+69,Light Jacket,Black Jeans,Sneakers,rainy,male,minimal,images/minimal_male_rainy.jpg,20-35
+70,Light Jacket,Black Jeans,Flats,rainy,female,minimal,images/minimal_female_rainy.jpg,20-35
+71,Cotton Kurta,Pajama,Ethnic Sandals,sunny,male,ethnic,images/ethnic_male_sunny.jpg,20-35
+72,Cotton Kurti,Leggings,Flats,sunny,female,ethnic,images/ethnic_female_sunny.jpg,20-35
+73,Light Linen Kurta,Pajama,Kolhapuri Chappals,humid,male,ethnic,images/ethnic_male_humid.jpg,20-35
+74,Light Linen Kurti,Kolhapuri Chappals,humid,female,ethnic,images/ethnic_female_humid.jpg,20-35
+75,Woolen Kurta,Churidar,Closed Mojris,winter,male,ethnic,images/ethnic_male_winter.jpg,20-35
+76,Long Kurta with Shawl,Leggings,Closed Flats,winter,female,ethnic,images/ethnic_female_winter.jpg,20-35
+77,Kurta,Churidar,Ethnic Sandals,moderate,male,ethnic,images/ethnic_male_moderate.jpg,20-35
+78,Printed Kurti,Leggings,Ethnic Flats,moderate,female,ethnic,images/ethnic_female_moderate.jpg,20-35
+79,Short Kurta,Pajama,Closed Sandals,rainy,male,ethnic,images/ethnic_male_rainy.jpg,20-35
+80,Short Kurti,Ankle-Length Pants,Closed Flats,rainy,female,ethnic,images/ethnic_female_rainy.jpg,20-35
+
+81,T-shirt,Jeans,Sneakers,sunny,male,casual,images/casual_male_sunny_40_50.jpg,35-50
+82,Top,Jeans,Sneakers,sunny,female,casual,images/casual_female_sunny_40_50.jpg,35-50
+83,Cotton T-shirt,Joggers,Sneakers,humid,male,casual,images/casual_male_humid_40_50.jpg,35-50
+84,Cotton Top,Joggers,Sneakers,humid,female,casual,images/casual_female_humid_40_50.jpg,35-50
+85,Hoodie,Jeans,Sneakers,winter,male,casual,images/casual_male_winter_40_50.jpg,35-50
+86,Hoodie,Jeans,Sneakers,winter,female,casual,images/casual_female_winter_40_50.jpg,35-50
+87,Shirt,Chinos,Loafers,moderate,male,casual,images/casual_male_moderate_40_50.jpg,35-50
+88,Shirt,Chinos,Loafers,moderate,female,casual,images/casual_female_moderate_40_50.jpg,35-50
+89,Rain Jacket,Jeans,Waterproof Shoes,rainy,male,casual,images/casual_male_rainy_40_50.jpg,35-50
+90,Rain Jacket,Jeans,Waterproof Shoes,rainy,female,casual,images/casual_female_rainy_40_50.jpg,35-50
+91,Track T-shirt,Track Pants,Running Shoes,sunny,male,sporty,images/sporty_male_sunny_40_50.jpg,35-50
+92,Sports Top,Track Pants,Running Shoes,sunny,female,sporty,images/sporty_female_sunny_40_50.jpg,35-50
+93,Breathable Sports T-shirt,Joggers,Sneakers,humid,male,sporty,images/sporty_male_humid_40_50.jpg,35-50
+94,Breathable Sports Top,Joggers,Sneakers,humid,female,sporty,images/sporty_female_humid_40_50.jpg,35-50
+95,Hooded Sweatshirt,Joggers,Sneakers,winter,male,sporty,images/sporty_male_winter_40_50.jpg,35-50
+96,Hooded Sweatshirt,Joggers,Sneakers,winter,female,sporty,images/sporty_female_winter_40_50.jpg,35-50
+97,Athletic T-shirt,Joggers,Training Shoes,moderate,male,sporty,images/sporty_male_moderate_40_50.jpg,35-50
+98,Athletic Top,Joggers,Training Shoes,moderate,female,sporty,images/sporty_female_moderate_40_50.jpg,35-50
+99,Windcheater,Track Pants,Running Shoes,rainy,male,sporty,images/sporty_male_rainy_40_50.jpg,35-50
+100,Windcheater,Track Pants,Running Shoes,rainy,female,sporty,images/sporty_female_rainy_40_50.jpg,35-50
+101,Formal Shirt,Dark Jeans,Formal Shoes,sunny,male,college formal,images/college_formal_male_sunny_40_50.jpg,35-50
+102,Formal Top,Dark Jeans,Formal Shoes,sunny,female,college formal,images/college_formal_female_sunny_40_50.jpg,35-50
+103,Light Shirt,Formal Trousers,Loafers,humid,male,college formal,images/college_formal_male_humid_40_50.jpg,35-50
+104,Light Blouse,Formal Trousers,Flats,humid,female,college formal,images/college_formal_female_humid_40_50.jpg,35-50
+105,Sweater over Shirt,Formal Trousers,Formal Shoes,winter,male,college formal,images/college_formal_male_winter_40_50.jpg,35-50
+106,Sweater over Shirt,Formal Trousers,Formal Shoes,winter,female,college formal,images/college_formal_female_winter_40_50.jpg,35-50
+107,Shirt,Chinos,Formal Shoes,moderate,male,college formal,images/college_formal_male_moderate_40_50.jpg,35-50
+108,Shirt,Chinos,Formal Shoes,moderate,female,college formal,images/college_formal_female_moderate_40_50.jpg,35-50
+109,Blazer,Dark Jeans,Formal Shoes,rainy,male,college formal,images/college_formal_male_rainy_40_50.jpg,35-50
+110,Blazer,Dark Jeans,Formal Shoes,rainy,female,college formal,images/college_formal_female_rainy_40_50.jpg,35-50
+111,Shirt,Chinos,Loafers,sunny,male,office semi formal,images/office_semi_formal_male_sunny_40_50.jpg,35-50
+112,Blouse,Chinos,Flats,sunny,female,office semi formal,images/office_semi_formal_female_sunny_40_50.jpg,35-50
+113,Light Cotton Shirt,Formal Trousers,Loafers,humid,male,office semi formal,images/office_semi_formal_male_humid_40_50.jpg,35-50
+114,Light Blouse,Formal Trousers,Flats,humid,female,office semi formal,images/office_semi_formal_female_humid_40_50.jpg,35-50
+115,Sweater over Shirt,Dark Trousers,Formal Shoes,winter,male,office semi formal,images/office_semi_formal_male_winter_40_50.jpg,35-50
+116,Cardigan over Top,Dark Trousers,Flats,winter,female,office semi formal,images/office_semi_formal_female_winter_40_50.jpg,35-50
+117,Shirt,Formal Trousers,Formal Shoes,moderate,male,office semi formal,images/office_semi_formal_male_moderate_40_50.jpg,35-50
+118,Blouse,Formal Trousers,Flats,moderate,female,office semi formal,images/office_semi_formal_female_moderate_40_50.jpg,35-50
+119,Light Blazer,Dark Jeans,Formal Shoes,rainy,male,office semi formal,images/office_semi_formal_male_rainy_40_50.jpg,35-50
+120,Light Blazer,Dark Jeans,Flats,rainy,female,office semi formal,images/office_semi_formal_female_rainy_40_50.jpg,35-50
+121,Formal Shirt,Formal Trousers,Formal Shoes,sunny,male,office formal,images/office_formal_male_sunny_40_50.jpg,35-50
+122,Formal Blouse,Pencil Skirt,Heels,sunny,female,office formal,images/office_formal_female_sunny_40_50.jpg,35-50
+123,Light Cotton Formal Shirt,Formal Trousers,Formal Shoes,humid,male,office formal,images/office_formal_male_humid_40_50.jpg,35-50
+124,Light Formal Blouse,Formal Trousers,Heels,humid,female,office formal,images/office_formal_female_humid_40_50.jpg,35-50
+125,Wool Blazer,Formal Trousers,Formal Shoes,winter,male,office formal,images/office_formal_male_winter_40_50.jpg,35-50
+126,Blazer over Formal Top,Formal Skirt,Heels,winter,female,office formal,images/office_formal_female_winter_40_50.jpg,35-50
+127,Blazer,Formal Trousers,Formal Shoes,moderate,male,office formal,images/office_formal_male_moderate_40_50.jpg,35-50
+128,Formal Top,Formal Trousers,Heels,moderate,female,office formal,images/office_formal_female_moderate_40_50.jpg,35-50
+129,Waterproof Blazer,Formal Trousers,Formal Shoes,rainy,male,office formal,images/office_formal_male_rainy_40_50.jpg,35-50
+130,Waterproof Blazer,Formal Skirt,Heels,rainy,female,office formal,images/office_formal_female_rainy_40_50.jpg,35-50
+131,Silk Shirt,Black Trousers,Leather Shoes,sunny,male,classy,images/classy_male_sunny_40_50.jpg,35-50
+132,Silk Top,Long Skirt,Heels,sunny,female,classy,images/classy_female_sunny_40_50.jpg,35-50
+133,Light Satin Shirt,Formal Trousers,Loafers,humid,male,classy,images/classy_male_humid_40_50.jpg,35-50
+134,Satin Top,Wide Leg Pants,Heels,humid,female,classy,images/classy_female_humid_40_50.jpg,35-50
+135,Wool Blazer,Dark Trousers,Boots,winter,male,classy,images/classy_male_winter_40_50.jpg,35-50
+136,Long Coat over Dress,Tights,Boots,winter,female,classy,images/classy_female_winter_40_50.jpg,35-50
+137,Blazer,Dark Jeans,Formal Shoes,moderate,male,classy,images/classy_male_moderate_40_50.jpg,35-50
+138,Blazer over Top,Dark Jeans,Heels,moderate,female,classy,images/classy_female_moderate_40_50.jpg,35-50
+139,Structured Jacket,Black Jeans,Leather Shoes,rainy,male,classy,images/classy_male_rainy_40_50.jpg,35-50
+140,Structured Jacket,Black Jeans,Ankle Boots,rainy,female,classy,images/classy_female_rainy_40_50.jpg,35-50
+141,Plain T-shirt,Slim Jeans,White Sneakers,sunny,male,minimal,images/minimal_male_sunny_40_50.jpg,35-50
+142,Plain Top,Slim Jeans,White Sneakers,sunny,female,minimal,images/minimal_female_sunny_40_50.jpg,35-50
+143,Light Cotton T-shirt,Cotton Pants,Sneakers,humid,male,minimal,images/minimal_male_humid_40_50.jpg,35-50
+144,Light Cotton Top,Cotton Pants,Sneakers,humid,female,minimal,images/minimal_female_humid_40_50.jpg,35-50
+145,Neutral Sweatshirt,Dark Jeans,Sneakers,winter,male,minimal,images/minimal_male_winter_40_50.jpg,35-50
+146,Neutral Sweater,Dark Jeans,Ankle Boots,winter,female,minimal,images/minimal_female_winter_40_50.jpg,35-50
+147,Monochrome Shirt,Chinos,Loafers,moderate,male,minimal,images/minimal_male_moderate_40_50.jpg,35-50
+148,Monochrome Top,Chinos,Flats,moderate,female,minimal,images/minimal_female_moderate_40_50.jpg,35-50
+149,Light Jacket,Black Jeans,Sneakers,rainy,male,minimal,images/minimal_male_rainy_40_50.jpg,35-50
+150,Light Jacket,Black Jeans,Flats,rainy,female,minimal,images/minimal_female_rainy_40_50.jpg,35-50
+151,Plain T-shirt,Slim Jeans,White Sneakers,sunny,male,minimal,images/minimal_male_sunny_40_50.jpg,35-50
+152,Plain Top,Slim Jeans,White Sneakers,sunny,female,minimal,images/minimal_female_sunny_40_50.jpg,35-50
+153,Light Cotton T-shirt,Cotton Pants,Sneakers,humid,male,minimal,images/minimal_male_humid_40_50.jpg,35-50
+154,Light Cotton Top,Cotton Pants,Sneakers,humid,female,minimal,images/minimal_female_humid_40_50.jpg,35-50
+155,Neutral Sweatshirt,Dark Jeans,Sneakers,winter,male,minimal,images/minimal_male_winter_40_50.jpg,35-50
+156,Neutral Sweater,Dark Jeans,Ankle Boots,winter,female,minimal,images/minimal_female_winter_40_50.jpg,35-50
+157,Monochrome Shirt,Chinos,Loafers,moderate,male,minimal,images/minimal_male_moderate_40_50.jpg,35-50
+158,Monochrome Top,Chinos,Flats,moderate,female,minimal,images/minimal_female_moderate_40_50.jpg,35-50
+159,Light Jacket,Black Jeans,Sneakers,rainy,male,minimal,images/minimal_male_rainy_40_50.jpg,35-50
+160,Light Jacket,Black Jeans,Flats,rainy,female,minimal,images/minimal_female_rainy_40_50.jpg,35-50
