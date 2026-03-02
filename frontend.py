@@ -60,7 +60,7 @@ if st.button("Generate Outfit ✨"):
        from recommender import recommend_outfit
 
 result = recommend_outfit(weather, style, gender, age_group)
-        )
+        
 
         if response.status_code != 200:
             st.error("Backend error 🚨")
@@ -89,4 +89,5 @@ result = recommend_outfit(weather, style, gender, age_group)
 
     except Exception as e:
         st.error("Backend server is not running ❌")
+
 
